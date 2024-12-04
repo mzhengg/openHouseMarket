@@ -1,4 +1,4 @@
-# openMLS
+# openHouseMarket
 
 ## Motivation
 
